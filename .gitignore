@@ -1,0 +1,8 @@
+.codex_tmp/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
