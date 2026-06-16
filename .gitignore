@@ -6,3 +6,9 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# 受版权保护的原书 PDF（仅本地参考，勿提交到公开仓库 github.com/xiaojiongqian/daodejing4kids）
+reference/**/*.pdf
+
+# OCR 转写的版权原书文字（仅本地参考，勿提交）
+reference/老子他说-ocr/
