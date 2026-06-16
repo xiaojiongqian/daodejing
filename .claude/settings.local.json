@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git --version)",
+      "Bash(git -C /Users/vik.qian/study/daodejing4kids status)",
+      "Bash(git ls-remote *)"
+    ]
+  }
+}
