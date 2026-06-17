@@ -1,15 +1,15 @@
 # 典故章节索引
 
-> 按《道德经》卷首/前言 + 八十一章顺序，索引 `reference/allusion/` 目录下 968 条典故的所在文件与编号。
+> 按《道德经》卷首/前言 + 八十一章顺序，索引 `reference/allusion/` 目录下 996 条典故的所在文件与编号。
 > 底本：南怀瑾《老子他说·道篇》与《德篇》典故辑录。
-> 共 968 条典故，已链接 968 条；0 条暂未定位章节，列于文末「待定」区。
-> 典故条目体例见 [allusion/README.md](README.md)。
+> 共 996 条典故，已链接 996 条；0 条暂未定位章节，列于文末「待定」区。
+> 典故条目体例见 [allusion/README.md](README.md)。2026年6月增补28则公共领域典故（伊索寓言、希腊神话、圣经故事等），补入中外西学与其他两个类目。
 
 ---
 
 ## 卷首 / 导论
 
-共 138 条典故：
+共 102 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #1 — 孙武助吴破楚称霸
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #2 — 计然子与范蠡功成身退
@@ -61,25 +61,6 @@
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #48 — 秦始皇的阿房宫
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #49 — 慈禧太后的圆明园与花鸟
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #50 — 倪云林撕绢拒为张士信作画、太湖遭辱不吭声
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #51 — 商汤、周武征诛创业
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #52 — 大舜起自田间继尧有天下
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #53 — 大禹治水继舜有天下
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #54 — 汤以一旅、文王以百里积德行仁
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #55 — 春秋霸主互争雄长
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #56 — 秦始皇蚕食吞并六国
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #57 — 汉高祖刘邦提三尺剑起自草莽
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #58 — 曹操父子阴谋篡位
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #59 — 刘裕效法曹瞒篡晋
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #60 — 唐太宗李世民反隋
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #61 — 赵匡胤黄袍加身
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #62 — 忽必烈声东击西
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #63 — 朱元璋奋起淮泗
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #64 — 多尔衮乘机入关
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #65 — 康熙的帝王术
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #66 — 曹丕受禅叹「舜禹受禅，我今方知」
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #67 — 李渊对李世民「化家为国，由汝为之」
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #68 — 石达开「遇非天子不为隆」
-- [历史人物与史事] [historical-figures.md](historical-figures.md) #69 — 周文王演《周易》卦爻辞
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #1 — 庄子「覆虚舟」之喻
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #2 — 庄子《天下篇》《让王篇》论养生处世
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #3 — 帝王之功，圣人之余事
@@ -87,20 +68,13 @@
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #5 — 孙子「兵者，诡道也」
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #6 — 东施效颦
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #7 — 庄子「为善无近名，为恶无近刑」
-- [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #8 — 庄子「窃钩者诛，窃国者侯」
-- [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #9 — 鱼不可脱于渊，国之利器不可以示人
-- [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #10 — 《庄子·盗跖》非讽刺而是道破
 - [儒家经典] [confucian.md](confucian.md) #1 — 孟子「富润屋，德润身」与天爵人爵
 - [儒家经典] [confucian.md](confucian.md) #2 — 子思《中庸》「天命之谓性，率性之谓道」
-- [儒家经典] [confucian.md](confucian.md) #3 — 《易·系辞》「形而上者谓之道，形而下者谓之器」
-- [儒家经典] [confucian.md](confucian.md) #4 — 《周易》乾卦「天行健，君子以自强不息」
 - [儒家经典] [confucian.md](confucian.md) #5 — 《泰誓》《孟子》「天视自我民视，天听自我民听」
 - [儒家经典] [confucian.md](confucian.md) #6 — 《中庸》「天命之谓性」（形而上之天）
 - [儒家经典] [confucian.md](confucian.md) #7 — 程颐谏宋哲宗折柳
 - [儒家经典] [confucian.md](confucian.md) #8 — 孟子劝齐宣王「好色好货，与民同乐」
 - [儒家经典] [confucian.md](confucian.md) #9 — 孔子教孔鲤学诗（过庭之训）
-- [儒家经典] [confucian.md](confucian.md) #10 — 周公（姬旦）祖述传统文化
-- [儒家经典] [confucian.md](confucian.md) #11 — 周文王演《周易》卦爻辞
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #1 — 计然子与范蠡
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #2 — 内用黄老，外示儒术
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #3 — 历代「拨乱反正」多为道家人物
@@ -113,13 +87,10 @@
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #10 — 尹喜望气与老子出关著《道德经》
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #11 — 老子化胡说
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #12 — 道统传承：老子—关尹子—壶子—列子—庄子
-- [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #13 — 谭峭《化书》论道化
-- [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #14 — 谭峭《化书》论术化
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #1 — 牟子《理惑论》三十七条
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #2 — 孔子是文殊菩萨化身说
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #3 — 佛家「真如」非定相
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #4 — 佛学缘起性空与老子有无互为因果
-- [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #5 — 佛说「是法平等，无有高下」
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #6 — 雁过长空，风来竹面
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #1 — 白居易《读老子》绝句讥老子
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #2 — 白居易《读老子》七律论吉凶祸福
@@ -133,12 +104,6 @@
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #10 — 《红楼梦》一僧一道与太虚幻境
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #11 — 袁枚「选诗如选色，总觉动心难」
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #12 — 韩琮《柳枝词》
-- [诗词文赋] [poetry-prose.md](poetry-prose.md) #13 — 历代求美求权终成空（李后主·宋徽宗）
-- [诗词文赋] [poetry-prose.md](poetry-prose.md) #14 — 唐彦谦《过长陵》
-- [诗词文赋] [poetry-prose.md](poetry-prose.md) #15 — 章碣《焚书坑》
-- [诗词文赋] [poetry-prose.md](poetry-prose.md) #16 — 《毗陵登高》「乾坤大半属偷儿」
-- [诗词文赋] [poetry-prose.md](poetry-prose.md) #17 — 石达开「起自匹夫方见异，遇非天子不为隆」
-- [诗词文赋] [poetry-prose.md](poetry-prose.md) #18 — 程颢「道通天地有形外，思入风云变态中」
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #1 — 太上老君与李姓源出老子的传说
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #2 — 誉满天下，谤亦随之
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #3 — 人为财死，鸟为食亡
@@ -147,7 +112,6 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #6 — 杜光庭与「杜撰」之由来
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #7 — 禽无声，兽无音
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #1 — 罗马帝国与现代地标（中外对照）
-- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #2 — 凯撒、亚历山大、屋大维、拿破仑——东西方的"创业"同理
 - [其他] [other.md](other.md) #1 — 三家比喻：粮店、百货店、药店
 
 ## 第1章
@@ -436,7 +400,7 @@
 
 ## 第9章
 
-共 49 条典故：
+共 50 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #157 — 陶朱公范蠡三聚三散
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #158 — 齐桓公问管仲三王弑君
@@ -487,6 +451,7 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #24 — 杯弓蛇影
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #7 — 路易十四与法国大革命的远因
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #8 — 路易十六凡尔赛宫的穷奢极欲与断头台
+- [其他] [other.md](other.md) #26 — 富有的愚人——拆小仓、建大仓，当夜灵魂被取走
 
 ## 第10章
 
@@ -643,7 +608,7 @@
 
 ## 第17章
 
-共 9 条典故：
+共 10 条典故：
 
 - [儒家经典] [confucian.md](confucian.md) #3 — 《易·系辞》「形而上者谓之道，形而下者谓之器」
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #66 — 上士闻道，勤而行之
@@ -654,6 +619,7 @@
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #61 — 「无情何必生斯世，有好终须累此身」
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #45 — 太上忘情
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #46 — 大智若愚
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #37 — 圣经「大卫与歌利亚」——以弱胜强
 
 ## 第18章
 
@@ -930,9 +896,12 @@
 
 ## 第26章
 
-共 1 条典故：
+共 4 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #263 — 乐毅是乐羊（乐羊子）之后
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #38 — 伊索寓言「龟兔赛跑」——缓慢而坚定胜过骄傲与浮躁
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #49 — 荷马史诗「奥德修斯的自制」——忍住一时的冲动，等来真正的胜利
+- [其他] [other.md](other.md) #33 — 日本「森林浴」——在安静中让身体自己修复
 
 ## 第27章
 
@@ -997,17 +966,26 @@
 
 ## 第32章
 
-共 1 条典故：
+共 2 条典故：
 
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #98 — "道法自然"
+- [其他] [other.md](other.md) #29 — 菩提树下悟道——宁静中照见万物的本来面目
 
 ## 第33章
 
-——
+共 4 条典故：
+
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #42 — 伊索寓言「乌鸦借羽」——不认自己的本来面目终至两失
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #46 — 希腊神话「西西弗斯推石」——执着本身就是意义
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #47 — 圣经故事「巴别塔」——骄傲与自我膨胀的后果
+- [其他] [other.md](other.md) #25 — 纳西瑟斯——迷恋自己的倒影，困死在自我陶醉中
 
 ## 第34章
 
-——
+共 2 条典故：
+
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #45 — 伊索寓言「狗占牛槽」——不应独占你不需要的东西
+- [其他] [other.md](other.md) #31 — 英国巨石阵之谜——不知道谁建、为什么建，但寂静地站了五千年
 
 ## 第35章
 
@@ -1133,9 +1111,11 @@
 
 ## 第46章
 
-共 1 条典故：
+共 3 条典故：
 
 - [儒家经典] [confucian.md](confucian.md) #100 — 三教圣人共劝"知足"
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #36 — 希腊神话「迈达斯王的金手指」——贪欲之祸
+- [其他] [other.md](other.md) #26 — 富有的愚人——拆小仓、建大仓，当夜灵魂被取走
 
 ## 第47章
 
@@ -1154,9 +1134,11 @@
 
 ## 第49章
 
-共 1 条典故：
+共 3 条典故：
 
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #84 — 天地生毒草也生补药
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #41 — 安徒生童话「皇帝的新装」——众人皆畏威而不敢言，唯赤子之心道出真相
+- [其他] [other.md](other.md) #30 — 特蕾莎修女「怀大爱心，做小事情」——以善报不善
 
 ## 第50章
 
@@ -1187,15 +1169,17 @@
 
 ## 第53章
 
-共 1 条典故：
+共 2 条典故：
 
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #43 — 希腊神话「伊卡洛斯的坠落」——持中守中，勿走极端
 - [其他] [other.md](other.md) #17 — 飘风不终朝，骤雨不终日
 
 ## 第54章
 
-共 1 条典故：
+共 2 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #58 — 庄子"藏舟于壑"
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #40 — 伊索寓言「一捆柴」——团结就是力量
 
 ## 第55章
 
@@ -1317,7 +1301,7 @@
 
 ## 第64章
 
-共 12 条典故：
+共 13 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #60 — 孟子「揠苗助长」
 - [儒家经典] [confucian.md](confucian.md) #102 — 孟子「虽有智慧不如乘势，虽有镃基不如待时」
@@ -1331,6 +1315,7 @@
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #31 — 四大古文明因果律
 - [其他] [other.md](other.md) #20 — 老祖母的「夏天出门带棉袄」
 - [其他] [other.md](other.md) #21 — 「闲棋一着」
+- [其他] [other.md](other.md) #27 — 温水煮青蛙——不知不觉中被坏习惯吞噬
 
 ## 第65章
 
@@ -1344,9 +1329,10 @@
 
 ## 第66章
 
-共 1 条典故：
+共 2 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #312 — 皇帝自称「孤家」「寡人」
+- [其他] [other.md](other.md) #32 — 盖茨与巴菲特「捐出99%」——为而不恃，功成而弗居
 
 ## 第67章
 
@@ -1372,9 +1358,10 @@
 
 ## 第69章
 
-共 1 条典故：
+共 2 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #317 — 抗日战争「哀兵必胜」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #37 — 圣经「大卫与歌利亚」——以弱胜强
 
 ## 第70章
 
@@ -1401,7 +1388,9 @@
 
 ## 第72章
 
-——
+共 1 条典故：
+
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #48 — 伊索寓言「雄鹿与倒影」——最看不起的恰恰拯救了你
 
 ## 第73章
 
@@ -1430,7 +1419,10 @@
 
 ## 第76章
 
-——
+共 2 条典故：
+
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #34 — 伊索寓言「橡树与芦苇」——柔韧胜刚强
+- [其他] [other.md](other.md) #28 — 伊索寓言「蚊子与狮子」——小弱势亦可制大，骄傲者反被小败
 
 ## 第77章
 
@@ -1443,13 +1435,18 @@
 
 ## 第78章
 
-——
+共 3 条典故：
+
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #35 — 伊索寓言「北风与太阳」——温和说服胜于强力
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #50 — 自然奇观「科罗拉多大峡谷」——柔水亿万年的坚持，切开了坚硬的岩石
+- [其他] [other.md](other.md) #35 — 印度圣雄甘地「食盐进军」——以非暴力的柔弱战胜暴力的强权
 
 ## 第79章
 
-共 1 条典故：
+共 2 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #327 — 司马迁再质疑——「天道无亲，常与善人」是真吗？
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #39 — 圣经「约瑟饶恕哥哥」——以善报恶、大怨不余
 
 ## 第80章
 
@@ -1460,4 +1457,7 @@
 
 ## 第81章
 
-——
+共 2 条典故：
+
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #44 — 所罗门王智断亲子案——真正的爱与自我牺牲
+- [其他] [other.md](other.md) #34 — 「石头汤」——分享使人富足
