@@ -1,4 +1,6 @@
 .codex_tmp/
+.claude/
+.claude/worktrees/
 
 # OS/editor noise
 .DS_Store
