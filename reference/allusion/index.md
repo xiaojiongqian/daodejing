@@ -1,9 +1,9 @@
 # 典故章节索引
 
-> 按《道德经》卷首/前言 + 八十一章顺序，索引 `reference/allusion/` 目录下 996 条典故的所在文件与编号。
-> 底本：南怀瑾《老子他说·道篇》与《德篇》典故辑录。
-> 共 996 条典故，已链接 996 条；0 条暂未定位章节，列于文末「待定」区。
-> 典故条目体例见 [allusion/README.md](README.md)。2026年6月增补28则公共领域典故（伊索寓言、希腊神话、圣经故事等），补入中外西学与其他两个类目。
+> 按《道德经》卷首/前言 + 八十一章顺序，索引 `reference/allusion/` 目录下 1059 条典故的所在文件与编号。
+> 底本：南怀瑾《老子他说·道篇》与《德篇》典故辑录 + 2026年6月公共领域增补（伊索寓言、希腊神话、圣经故事、安徒生童话、荷马史诗、历史事件、自然奇观、现代励志事迹等）。
+> 共 1059 条典故，已链接 1131 条引用；0 条暂未定位章节。
+> 典故条目体例见 [allusion/README.md](README.md)。
 
 ---
 
@@ -116,11 +116,13 @@
 
 ## 第1章
 
-共 3 条典故：
+共 5 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #178 — 王弼注《老子》分八十一章
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #37 — 此两者，同出而异名
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #50 — 老子「玄之又玄，众妙之门」（自引印证「微妙玄通」）
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #61 — 盲人摸象——各执一端的危险
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #81 — 老子与释迦牟尼相隔万里，同年同月同夜——道本同源
 
 ## 第2章
 
@@ -164,7 +166,7 @@
 
 ## 第3章
 
-共 100 条典故：
+共 101 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #70 — 张南轩对宋孝宗「晓事之臣」
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #71 — 孙丕扬「做官无大难事，只莫作怪」
@@ -266,6 +268,7 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #14 — 黄粱一梦
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #15 — 过江之鲫
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #16 — 浮一大白
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #79 — 圣女贞德——一个不识字的农村少女唤醒了整个王国
 
 ## 第4章
 
@@ -400,7 +403,7 @@
 
 ## 第9章
 
-共 50 条典故：
+共 52 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #157 — 陶朱公范蠡三聚三散
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #158 — 齐桓公问管仲三王弑君
@@ -451,7 +454,9 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #24 — 杯弓蛇影
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #7 — 路易十四与法国大革命的远因
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #8 — 路易十六凡尔赛宫的穷奢极欲与断头台
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #51 — 辛辛纳图斯与华盛顿——功成身退，放下权力回到农田
 - [其他] [other.md](other.md) #26 — 富有的愚人——拆小仓、建大仓，当夜灵魂被取走
+- [其他] [other.md](other.md) #47 — R.M.S. 泰坦尼克号——一座「永不沉没」的骄傲毁于一块无形的冰
 
 ## 第10章
 
@@ -499,14 +504,16 @@
 
 ## 第12章
 
-共 2 条典故：
+共 4 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #31 — 五色五音五味令人目盲耳聋口爽
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #32 — 圣人为腹不为目
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #64 — 伊索寓言「蚱蜢与蚂蚁」——预先准备与积蓄
+- [其他] [other.md](other.md) #36 — 乔达摩·悉达多「四门游观」——从深宫中窥见真实世界的痛苦
 
 ## 第13章
 
-共 16 条典故：
+共 17 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #186 — 廉颇罢将客散复至
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #187 — 唐明皇冷落梅妃
@@ -524,10 +531,11 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #28 — 父子同科笑话
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #29 — 门庭若市与人走茶凉
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #30 — 病重舍肢求活
+- [其他] [other.md](other.md) #42 — 尼泊尔「活女神」库玛丽——从女神到凡人，一夜之间的转换
 
 ## 第14章
 
-共 9 条典故：
+共 11 条典故：
 
 - [儒家经典] [confucian.md](confucian.md) #38 — 孔门论「以心导耳目」（曾子、子思一脉）
 - [儒家经典] [confucian.md](confucian.md) #39 — 子思《中庸》「生乎今之世，反古之道，灾及其身」
@@ -538,6 +546,8 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #31 — 察见渊鱼者不祥
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #32 — 他山之石，可以攻玉
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #33 — 官者，管也
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #59 — 安东尼·德·圣-埃克苏佩里《小王子》——最重要的东西是眼睛看不见的
+- [其他] [other.md](other.md) #37 — 波兰「冰山孤儿」的无声钢琴——最安静的音乐
 
 ## 第15章
 
@@ -762,11 +772,14 @@
 
 ## 第22章
 
-共 3 条典故：
+共 6 条典故：
 
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #77 — 圣人抱一为天下式
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #78 — 四不领导学：不自见、不自是、不自伐、不自矜
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #79 — 曲则全·诚全而归之
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #77 — 奥普拉·温弗瑞——被废弃的种子开出了最美的花
+- [其他] [other.md](other.md) #53 — 文森特·梵高——一生被全世界当失败者，死后照亮了全世界
+- [其他] [other.md](other.md) #55 — 「向日葵总是朝向太阳」——在看起来没有出路的地方，找到光的方向
 
 ## 第23章
 
@@ -792,7 +805,7 @@
 
 ## 第24章
 
-共 26 条典故：
+共 27 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #230 — 苻坚投鞭断流伐晋
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #231 — 王猛临终遗言不可图晋
@@ -820,6 +833,7 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #64 — 扪虱而谈天下事
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #65 — 筑室道旁，无时可成
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #66 — 战战兢兢，如临深谷
+- [其他] [other.md](other.md) #47 — R.M.S. 泰坦尼克号——一座「永不沉没」的骄傲毁于一块无形的冰
 
 ## 第25章
 
@@ -896,12 +910,15 @@
 
 ## 第26章
 
-共 4 条典故：
+共 7 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #263 — 乐毅是乐羊（乐羊子）之后
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #38 — 伊索寓言「龟兔赛跑」——缓慢而坚定胜过骄傲与浮躁
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #49 — 荷马史诗「奥德修斯的自制」——忍住一时的冲动，等来真正的胜利
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #58 — 阿波罗13号——冷静面对灾难，「成功的失败」
 - [其他] [other.md](other.md) #33 — 日本「森林浴」——在安静中让身体自己修复
+- [其他] [other.md](other.md) #52 — 乔治·华盛顿「纽堡演说」——用老花眼镜镇住了兵变
+- [其他] [other.md](other.md) #54 — 孔子被困于陈蔡之间——三日绝粮而弦歌不辍
 
 ## 第27章
 
@@ -921,7 +938,7 @@
 
 ## 第28章
 
-共 9 条典故：
+共 10 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #267 — 汉高祖"隆准龙颜"
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #268 — 袁世凯上"龙颜"的当
@@ -932,6 +949,7 @@
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #72 — 佛家"软地"修行境界
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #73 — 白业与黑业
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #71 — "唯大英雄能本色，是真名士自风流"
+- [其他] [other.md](other.md) #39 — 敦煌莫高窟藏经洞——封存九百年、沉默中守护文明
 
 ## 第29章
 
@@ -944,11 +962,13 @@
 
 ## 第30章
 
-共 4 条典故：
+共 6 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #270 — 伊尹、姜太公、诸葛亮、刘基——拨乱反正的道家人物
 - [儒家经典] [confucian.md](confucian.md) #81 — "苟日新，日日新，又日新"
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #21 — 第二次世界大战德国和日本违反老子军事哲学
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #72 — 杰克·伦敦《生火》——在自然面前要谦卑
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #78 — 所罗门岛砍树——用咒骂「杀」死一棵参天大树
 - [其他] [other.md](other.md) #5 — "善者果而已"——仁慈统帅不敢轻言战争
 
 ## 第31章
@@ -973,26 +993,34 @@
 
 ## 第33章
 
-共 4 条典故：
+共 7 条典故：
 
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #42 — 伊索寓言「乌鸦借羽」——不认自己的本来面目终至两失
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #46 — 希腊神话「西西弗斯推石」——执着本身就是意义
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #47 — 圣经故事「巴别塔」——骄傲与自我膨胀的后果
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #54 — 伊索寓言「狐狸与葡萄」——贬低得不到的东西
 - [其他] [other.md](other.md) #25 — 纳西瑟斯——迷恋自己的倒影，困死在自我陶醉中
+- [其他] [other.md](other.md) #40 — 班尼斯特「四分钟一英里」——「不可能」是被头脑画下的线
+- [其他] [other.md](other.md) #63 — 斯多亚学派——把你能控制的与不能控制的分开
 
 ## 第34章
 
-共 2 条典故：
+共 3 条典故：
 
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #45 — 伊索寓言「狗占牛槽」——不应独占你不需要的东西
 - [其他] [other.md](other.md) #31 — 英国巨石阵之谜——不知道谁建、为什么建，但寂静地站了五千年
+- [其他] [other.md](other.md) #65 — 卡尔·萨根「暗淡蓝点」——从64亿公里外回看地球，所有的战争都在一粒浮尘上
 
 ## 第35章
 
-共 2 条典故：
+共 6 条典故：
 
 - [儒家经典] [confucian.md](confucian.md) #84 — 《易经》八卦——天、地、日、月、风、雷、山、泽
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #99 — 《阴符经》"观天之道，执天之行尽矣"
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #59 — 安东尼·德·圣-埃克苏佩里《小王子》——最重要的东西是眼睛看不见的
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #79 — 圣女贞德——一个不识字的农村少女唤醒了整个王国
+- [其他] [other.md](other.md) #51 — 维米尔《戴珍珠耳环的少女》——最平常的一回头，成了荷兰的「蒙娜丽莎」
+- [其他] [other.md](other.md) #56 — 澳大利亚原住民的「歌之径」——用歌声在大地行走中记忆整条史诗
 
 ## 第36章
 
@@ -1013,21 +1041,26 @@
 
 ## 第37章
 
-共 2 条典故：
+共 3 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #278 — 陶侃运砖与储备竹头木屑
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #74 — 临济祖师"吹毛用了急须磨"
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #69 — 土豆、鸡蛋和咖啡豆——同样的沸水，不同的结局
 
 ## 第38章
 
-共 2 条典故：
+共 6 条典故：
 
 - [儒家经典] [confucian.md](confucian.md) #82 — 体用论/形而上下
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #75 — 《金刚经》"不着相"
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #66 — 伊蕾娜·森德勒——救了2500个孩子却从不张扬的「普通老妇人」
+- [其他] [other.md](other.md) #36 — 乔达摩·悉达多「四门游观」——从深宫中窥见真实世界的痛苦
+- [其他] [other.md](other.md) #38 — 《死亡诗社》基汀老师——撕掉教科书前言，让学生活在诗里
+- [其他] [other.md](other.md) #48 — 1985年墨西哥城地震——没有警报、没有动员，市民自发徒手挖出了生命
 
 ## 第39章
 
-共 7 条典故：
+共 8 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #52 — 庄子"朝三暮四"养猴子的故事
 - [儒家经典] [confucian.md](confucian.md) #85 — 曾子"夫子之道忠恕而已矣"
@@ -1036,17 +1069,22 @@
 - [儒家经典] [confucian.md](confucian.md) #88 — "万方有罪，罪在朕躬"
 - [其他] [other.md](other.md) #7 — "数几辆轿车等于没有轿车"（数舆无舆）
 - [其他] [other.md](other.md) #8 — 金刚钻无用之说
+- [其他] [other.md](other.md) #57 — 冰岛的「冰川葬礼」——为一座冰川举行国家悼念，提醒人类渺小
 
 ## 第40章
 
-共 2 条典故：
+共 6 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #39 — 反者道之动
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #77 — 佛家"缘起性空"
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #53 — 海伦·凯勒与安妮·苏利文——从无光无声到光明
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #69 — 土豆、鸡蛋和咖啡豆——同样的沸水，不同的结局
+- [其他] [other.md](other.md) #37 — 波兰「冰山孤儿」的无声钢琴——最安静的音乐
+- [其他] [other.md](other.md) #45 — 赤壁之战的火——小小的风向改变了中国历史的走向
 
 ## 第41章
 
-共 19 条典故：
+共 23 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #279 — 岳飞冤案——大白若辱
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #280 — "小时了了，大未必佳"
@@ -1062,11 +1100,15 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #79 — "盖棺论定"
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #24 — "罗马不是一天造成的"
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #25 — 宇宙的声音（大音希声的科学解释）
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #74 — 《盲人国》——在全是盲人的国度，独眼是「疯子」
 - [其他] [other.md](other.md) #9 — 脏钞票与干净钞票的比喻
 - [其他] [other.md](other.md) #10 — 学书法——先进步后退步
 - [其他] [other.md](other.md) #11 — 横贯公路——夷道若纇
 - [其他] [other.md](other.md) #12 — "置之死地而后生"
 - [其他] [other.md](other.md) #14 — "大成无功"
+- [其他] [other.md](other.md) #41 — 图灵——在孤独中被否定的天才，最终改变了人类文明
+- [其他] [other.md](other.md) #44 — 芬兰「失败日」——全国一起庆祝搞砸了
+- [其他] [other.md](other.md) #53 — 文森特·梵高——一生被全世界当失败者，死后照亮了全世界
 
 ## 第42章
 
@@ -1104,25 +1146,36 @@
 
 ## 第45章
 
-共 2 条典故：
+共 8 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #283 — 曾国藩"求阙斋"
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #284 — 宋太祖以木讷对南唐徐铉
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #53 — 海伦·凯勒与安妮·苏利文——从无光无声到光明
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #55 — 阿基米德「尤里卡」——放下才来的灵光一闪
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #70 — 「有裂缝的瓦罐」——你的缺陷也许是你最大的礼物
+- [其他] [other.md](other.md) #39 — 敦煌莫高窟藏经洞——封存九百年、沉默中守护文明
+- [其他] [other.md](other.md) #44 — 芬兰「失败日」——全国一起庆祝搞砸了
+- [其他] [other.md](other.md) #61 — 贝多芬——聋了以后，听到内心更深的声音
 
 ## 第46章
 
-共 3 条典故：
+共 4 条典故：
 
 - [儒家经典] [confucian.md](confucian.md) #100 — 三教圣人共劝"知足"
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #36 — 希腊神话「迈达斯王的金手指」——贪欲之祸
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #54 — 伊索寓言「狐狸与葡萄」——贬低得不到的东西
 - [其他] [other.md](other.md) #26 — 富有的愚人——拆小仓、建大仓，当夜灵魂被取走
 
 ## 第47章
 
-共 2 条典故：
+共 6 条典故：
 
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #104 — 内照形躯——修道内观
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #83 — 秀才不出门，能知天下事
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #55 — 阿基米德「尤里卡」——放下才来的灵光一闪
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #62 — 释迦牟尼菩提树下「不为而成」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #75 — 牛顿的苹果——静观中洞察万物之理
+- [其他] [other.md](other.md) #58 — 史蒂芬·霍金——锁在轮椅上的人，想象力遨游到时间的起点
 
 ## 第48章
 
@@ -1142,11 +1195,12 @@
 
 ## 第50章
 
-共 3 条典故：
+共 4 条典故：
 
 - [儒家经典] [confucian.md](confucian.md) #93 — 孔子"原始反终"知生死
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #105 — 老子化身传说——长生不死
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #86 — 李白"浮生若梦"
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #52 — 悉达多太子「芥菜籽」——面对生死无常的觉悟
 
 ## 第51章
 
@@ -1176,14 +1230,15 @@
 
 ## 第54章
 
-共 2 条典故：
+共 3 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #58 — 庄子"藏舟于壑"
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #40 — 伊索寓言「一捆柴」——团结就是力量
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #63 — 日本毛利元就「三支箭」——团结则强，分裂则亡
 
 ## 第55章
 
-共 8 条典故：
+共 9 条典故：
 
 - [儒家经典] [confucian.md](confucian.md) #99 — 《中庸》"致中和"
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #106 — 婴儿浑然一体——"复守其母"
@@ -1192,19 +1247,21 @@
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #89 — "盲龟遇浮木"——人身难得
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #90 — "去后来先做主公"——灵魂与死亡现象
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #96 — 佛家"现行熏种子，种子生现行"
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #78 — 所罗门岛砍树——用咒骂「杀」死一棵参天大树
 - [其他] [other.md](other.md) #18 — 胎教——中国古老的教育传统
 
 ## 第56章
 
-共 3 条典故：
+共 4 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #36 — 和其光，同其尘
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #68 — 和其光，同其尘（贯通第20章章旨）
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #89 — 白居易《读老子》
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #61 — 盲人摸象——各执一端的危险
 
 ## 第57章
 
-共 7 条典故：
+共 8 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #287 — 陈平六出奇计与自我反思
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #288 — 文王三分天下有其二——以无事取天下
@@ -1213,6 +1270,7 @@
 - [儒家经典] [confucian.md](confucian.md) #97 — 齐宣王花园——孟子谈禁忌
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #29 — 南师在日本文化会议上的发言
 - [其他] [other.md](other.md) #19 — "法网恢恢，疏而不漏"
+- [其他] [other.md](other.md) #48 — 1985年墨西哥城地震——没有警报、没有动员，市民自发徒手挖出了生命
 
 ## 第58章
 
@@ -1238,7 +1296,7 @@
 
 ## 第59章
 
-共 8 条典故：
+共 9 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #286 — 李泌与懒残的因缘
 - [儒家经典] [confucian.md](confucian.md) #95 — 孔子评季文子三思而后行
@@ -1248,6 +1306,7 @@
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #85 — 懒残歌
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #86 — 数息观——方法与误区
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #90 — "请坐——比饼大到汤碗大"——悭吝的笑话
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #64 — 伊索寓言「蚱蜢与蚂蚁」——预先准备与积蓄
 
 ## 第60章
 
@@ -1282,7 +1341,7 @@
 
 ## 第63章
 
-共 14 条典故：
+共 16 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #302 — 美国教授谈人生茫然
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #303 — 蒋公发表「复兴中华文化」文告
@@ -1298,10 +1357,12 @@
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #95 — 《红楼梦》贾宝玉「负父母养育之恩」
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #91 — 君子之交淡如水
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #30 — 拿破仑的「天下没有困难的事」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #68 — 「星鱼抛投者」——我帮不了所有的生命，但我能帮这一个
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #83 — 特蕾莎修女的「小事大爱」——不需要做伟大的事，只要在小事里付出极大的爱
 
 ## 第64章
 
-共 13 条典故：
+共 20 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #60 — 孟子「揠苗助长」
 - [儒家经典] [confucian.md](confucian.md) #102 — 孟子「虽有智慧不如乘势，虽有镃基不如待时」
@@ -1313,9 +1374,16 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #93 — 「一失足成千古恨，再回首已百年身」
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #94 — 「学问深时意气平」
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #31 — 四大古文明因果律
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #71 — 达·芬奇画蛋——伟大的基本功
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #82 — 神舟16号地面工程师桂海潮——从深山少年到飞向宇宙
 - [其他] [other.md](other.md) #20 — 老祖母的「夏天出门带棉袄」
 - [其他] [other.md](other.md) #21 — 「闲棋一着」
 - [其他] [other.md](other.md) #27 — 温水煮青蛙——不知不觉中被坏习惯吞噬
+- [其他] [other.md](other.md) #40 — 班尼斯特「四分钟一英里」——「不可能」是被头脑画下的线
+- [其他] [other.md](other.md) #43 — 玛丽·居里——在黑暗的棚屋里长年「煮」出镭的光芒
+- [其他] [other.md](other.md) #46 — 「蝴蝶效应」——巴西一只蝴蝶扇动翅膀，德克萨斯一场龙卷风
+- [其他] [other.md](other.md) #49 — 荷兰男孩用手指堵住堤坝——小小孩童用一根手指救了一座城
+- [其他] [other.md](other.md) #50 — 珊瑚虫与大堡礁——比沙粒还小的生命，堆积出从太空唯一可见的活体建筑
 
 ## 第65章
 
@@ -1329,14 +1397,15 @@
 
 ## 第66章
 
-共 2 条典故：
+共 3 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #312 — 皇帝自称「孤家」「寡人」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #51 — 辛辛纳图斯与华盛顿——功成身退，放下权力回到农田
 - [其他] [other.md](other.md) #32 — 盖茨与巴菲特「捐出99%」——为而不恃，功成而弗居
 
 ## 第67章
 
-共 10 条典故：
+共 16 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #77 — 汉文景之治与黄老三宝
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #313 — 陈胜、吴广揭竿而起，项羽为天下先，刘邦成事
@@ -1348,13 +1417,21 @@
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #99 — 佛教借用老子「三宝」
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #100 — 龚定盦「但开风气不为先」
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #95 — 「见官莫在前，做客莫在后」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #65 — 奥斯卡·辛德勒——从一个发战争财的人到拯救1200条生命
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #66 — 伊蕾娜·森德勒——救了2500个孩子却从不张扬的「普通老妇人」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #67 — 马拉拉——一个被子弹打穿了头还站起来说「继续上学」的女孩
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #80 — 《一碗阳春面》——寒冬里的一碗热汤、一分不涨的尊严
+- [其他] [other.md](other.md) #60 — 哈丽特·塔布曼——从自身挣脱锁链到引领数百人走向自由
+- [其他] [other.md](other.md) #64 — 伊拉克国家图书馆馆长萨阿德·埃斯坎德——在战火中用水桶抢救手稿
 
 ## 第68章
 
-共 2 条典故：
+共 4 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #316 — 《史记·刺客列传》——荆轲与盖聂
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #115 — 太极拳「四两拨千斤」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #56 — 林肯「不寄出的愤怒信」——克制一时之怒
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #57 — 马丁·路德·金与非暴力——以善胜恶的「不争之德」
 
 ## 第69章
 
@@ -1378,19 +1455,21 @@
 
 ## 第71章
 
-共 5 条典故：
+共 6 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #321 — 唐代宗「不痴不聋，不作阿姑阿翁」
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #113 — 老子「知不知」与「不知知」
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #103 — 香岩禅师「一击忘所知」
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #101 — 袁枚引宋诗「羡他村落无盐女」
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #102 — 陆游「十年烟笼废春耕」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #73 — 苏格拉底——自知无知是最高的智慧
 
 ## 第72章
 
-共 1 条典故：
+共 2 条典故：
 
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #48 — 伊索寓言「雄鹿与倒影」——最看不起的恰恰拯救了你
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #60 — 安妮·弗兰克——在最黑暗的地下室里写下「我相信人是善良的」
 
 ## 第73章
 
@@ -1404,9 +1483,10 @@
 
 ## 第74章
 
-共 1 条典故：
+共 2 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #324 — 张献忠「七杀碑」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #67 — 马拉拉——一个被子弹打穿了头还站起来说「继续上学」的女孩
 
 ## 第75章
 
@@ -1426,27 +1506,31 @@
 
 ## 第77章
 
-共 4 条典故：
+共 5 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #326 — 清朝以孤儿寡妇入关，以孤儿寡妇退位
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #105 — 佛学「婆婆世界」（娑婆世界）
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #106 — 佛教的「菩萨道」——布施有余
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #32 — 「上帝要他灭亡，必先使他疯狂」
+- [其他] [other.md](other.md) #59 — 尤努斯「穷人银行」——借出27美元，把整个村庄从高利贷中解放
 
 ## 第78章
 
-共 3 条典故：
+共 4 条典故：
 
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #35 — 伊索寓言「北风与太阳」——温和说服胜于强力
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #50 — 自然奇观「科罗拉多大峡谷」——柔水亿万年的坚持，切开了坚硬的岩石
 - [其他] [other.md](other.md) #35 — 印度圣雄甘地「食盐进军」——以非暴力的柔弱战胜暴力的强权
+- [其他] [other.md](other.md) #64 — 伊拉克国家图书馆馆长萨阿德·埃斯坎德——在战火中用水桶抢救手稿
 
 ## 第79章
 
-共 2 条典故：
+共 4 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #327 — 司马迁再质疑——「天道无亲，常与善人」是真吗？
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #39 — 圣经「约瑟饶恕哥哥」——以善报恶、大怨不余
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #68 — 「星鱼抛投者」——我帮不了所有的生命，但我能帮这一个
+- [其他] [other.md](other.md) #62 — 纳尔逊·曼德拉——从监狱里走出来，没有一句仇恨
 
 ## 第80章
 
@@ -1457,7 +1541,9 @@
 
 ## 第81章
 
-共 2 条典故：
+共 4 条典故：
 
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #44 — 所罗门王智断亲子案——真正的爱与自我牺牲
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #76 — 苏格拉底「三把筛子」——没有经过善与真过滤的话不必说
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #80 — 《一碗阳春面》——寒冬里的一碗热汤、一分不涨的尊严
 - [其他] [other.md](other.md) #34 — 「石头汤」——分享使人富足
