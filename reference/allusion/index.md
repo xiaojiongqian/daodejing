@@ -2,7 +2,7 @@
 
 > 按《道德经》卷首/前言 + 八十一章顺序，索引 `reference/allusion/` 目录下 1059 条典故的所在文件与编号。
 > 底本：南怀瑾《老子他说·道篇》与《德篇》典故辑录 + 2026年6月公共领域增补（伊索寓言、希腊神话、圣经故事、安徒生童话、荷马史诗、历史事件、自然奇观、现代励志事迹等）。
-> 共 1059 条典故，已链接 1131 条引用；0 条暂未定位章节。
+> 共 1059 条典故，已链接 1149 条引用；0 条暂未定位章节。
 > 典故条目体例见 [allusion/README.md](README.md)。
 
 ---
@@ -126,7 +126,7 @@
 
 ## 第2章
 
-共 35 条典故：
+共 36 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #51 — 商汤、周武征诛创业
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #52 — 大舜起自田间继尧有天下
@@ -147,6 +147,7 @@
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #67 — 李渊对李世民「化家为国，由汝为之」
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #68 — 石达开「遇非天子不为隆」
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #69 — 周文王演《周易》卦爻辞
+- [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #6 — 东施效颦
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #10 — 《庄子·盗跖》非讽刺而是道破
 - [儒家经典] [confucian.md](confucian.md) #10 — 周公（姬旦）祖述传统文化
 - [儒家经典] [confucian.md](confucian.md) #11 — 周文王演《周易》卦爻辞
@@ -166,7 +167,7 @@
 
 ## 第3章
 
-共 101 条典故：
+共 103 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #70 — 张南轩对宋孝宗「晓事之臣」
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #71 — 孙丕扬「做官无大难事，只莫作怪」
@@ -268,11 +269,13 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #14 — 黄粱一梦
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #15 — 过江之鲫
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #16 — 浮一大白
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #36 — 希腊神话「迈达斯王的金手指」——贪欲之祸
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #51 — 辛辛纳图斯与华盛顿——功成身退，放下权力回到农田
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #79 — 圣女贞德——一个不识字的农村少女唤醒了整个王国
 
 ## 第4章
 
-共 46 条典故：
+共 50 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #108 — 汉文帝以黄老治国
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #109 — 康熙善用黄老之道
@@ -307,6 +310,7 @@
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #138 — 元载忌贤外放李泌
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #139 — 常衮排挤李泌外任
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #140 — 李晟、马燧——李泌力保功臣
+- [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #1 — 庄子「覆虚舟」之喻
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #36 — 和其光，同其尘
 - [儒家经典] [confucian.md](confucian.md) #24 — 孔子「用之则行，舍之则藏」
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #33 — 济公活佛喝酒吃狗肉
@@ -320,10 +324,13 @@
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #12 — 懒残禅师烤芋头许李泌十年宰相
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #30 — 汪小蕴论史诗咏郭子仪、李泌
 - [诗词文赋] [poetry-prose.md](poetry-prose.md) #31 — 李贤《黄台瓜辞》
+- [其他] [other.md](other.md) #31 — 英国巨石阵之谜——不知道谁建、为什么建，但寂静地站了五千年
+- [其他] [other.md](other.md) #51 — 维米尔《戴珍珠耳环的少女》——最平常的一回头，成了荷兰的「蒙娜丽莎」
+- [其他] [other.md](other.md) #61 — 贝多芬——聋了以后，听到内心更深的声音
 
 ## 第5章
 
-共 26 条典故：
+共 33 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #141 — 司马迁《史记》含蓄反映道家思想
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #142 — 吴起杀妻求将
@@ -351,10 +358,17 @@
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #3 — 耶稣呼吁博爱，而西方鲜见博爱
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #4 — 耶稣被钉十字架为世人赎罪
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #5 — 假托"自由""民主"之名以遂私欲
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #43 — 希腊神话「伊卡洛斯的坠落」——持中守中，勿走极端
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #53 — 海伦·凯勒与安妮·苏利文——从无光无声到光明
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #58 — 阿波罗13号——冷静面对灾难，「成功的失败」
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #68 — 「星鱼抛投者」——我帮不了所有的生命，但我能帮这一个
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #72 — 杰克·伦敦《生火》——在自然面前要谦卑
+- [其他] [other.md](other.md) #29 — 菩提树下悟道——宁静中照见万物的本来面目
+- [其他] [other.md](other.md) #30 — 特蕾莎修女「怀大爱心，做小事情」——以善报不善
 
 ## 第6章
 
-共 10 条典故：
+共 14 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #147 — 《黄帝内经》上古医学原理
 - [儒家经典] [confucian.md](confucian.md) #28 — 《易·系辞》「寂然不动，感而遂通」
@@ -366,6 +380,10 @@
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #15 — 临济义玄「吹毛用了急须磨」诗偈
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #16 — 臭皮囊
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #6 — 印度瑜伽"海底轮"——灵能潜藏之穴
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #50 — 自然奇观「科罗拉多大峡谷」——柔水亿万年的坚持，切开了坚硬的岩石
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #55 — 阿基米德「尤里卡」——放下才来的灵光一闪
+- [其他] [other.md](other.md) #37 — 约翰·凯奇《4′33″》——最安静的音乐
+- [其他] [other.md](other.md) #56 — 澳大利亚原住民的「歌之径」——用歌声在大地行走中记忆整条史诗
 
 ## 第7章
 
@@ -547,7 +565,7 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #32 — 他山之石，可以攻玉
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #33 — 官者，管也
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #59 — 安东尼·德·圣-埃克苏佩里《小王子》——最重要的东西是眼睛看不见的
-- [其他] [other.md](other.md) #37 — 波兰「冰山孤儿」的无声钢琴——最安静的音乐
+- [其他] [other.md](other.md) #37 — 约翰·凯奇《4′33″》——最安静的音乐
 
 ## 第15章
 
@@ -1079,7 +1097,7 @@
 - [佛教禅宗] [buddhist-chan.md](buddhist-chan.md) #77 — 佛家"缘起性空"
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #53 — 海伦·凯勒与安妮·苏利文——从无光无声到光明
 - [中外与西学典故] [foreign-cross.md](foreign-cross.md) #69 — 土豆、鸡蛋和咖啡豆——同样的沸水，不同的结局
-- [其他] [other.md](other.md) #37 — 波兰「冰山孤儿」的无声钢琴——最安静的音乐
+- [其他] [other.md](other.md) #37 — 约翰·凯奇《4′33″》——最安静的音乐
 - [其他] [other.md](other.md) #45 — 赤壁之战的火——小小的风向改变了中国历史的走向
 
 ## 第41章
