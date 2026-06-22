@@ -2,7 +2,7 @@
 
 > 按《道德经》卷首/前言 + 八十一章顺序，索引 `reference/allusion/` 目录下 1059 条典故的所在文件与编号。
 > 底本：南怀瑾《老子他说·道篇》与《德篇》典故辑录 + 2026年6月公共领域增补（伊索寓言、希腊神话、圣经故事、安徒生童话、荷马史诗、历史事件、自然奇观、现代励志事迹等）。
-> 共 1059 条典故，已链接 1149 条引用；0 条暂未定位章节。
+> 共 1059 条典故，已链接 1152 条引用；0 条暂未定位章节。
 > 典故条目体例见 [allusion/README.md](README.md)。
 
 ---
@@ -387,7 +387,7 @@
 
 ## 第7章
 
-共 7 条典故：
+共 10 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #19 — 庄子《胠箧》盗亦有道
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #46 — 天之至私，用之至公（阴符经）
@@ -396,6 +396,9 @@
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #20 — 天地不仁，以万物为刍狗
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #21 — 千古文章一大偷
 - [成语谚语与民俗神话] [idioms-proverbs.md](idioms-proverbs.md) #22 — 身先士卒、公而忘私
+- [其他] [other.md](other.md) #35 — 印度圣雄甘地「食盐进军」——以非暴力的柔弱战胜暴力的强权
+- [其他] [other.md](other.md) #52 — 乔治·华盛顿「纽堡演说」——用老花眼镜镇住了兵变
+- [其他] [other.md](other.md) #62 — 纳尔逊·曼德拉——从监狱里走出来，没有一句仇恨
 
 ## 第8章
 
