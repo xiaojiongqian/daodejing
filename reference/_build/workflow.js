@@ -8,7 +8,7 @@ export const meta = {
   ],
 }
 
-const REF = '/Users/vik.qian/study/daodejing4kids/reference'
+const REF = '/Users/vik.qian/study/daodejing/reference'
 const SRC = '/tmp/ddj-sources' // raw authoritative sources + substrate.json
 
 const VERIFY_SCHEMA = {
