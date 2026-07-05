@@ -5,8 +5,8 @@
 - Title: 《道德经》儿童绘本系列
 - Genre: 儿童哲理绘本 / 经典启蒙 / 系列故事材料
 - Premise: 以《道德经》八十一章为骨架，把原文、含义、典故、历史故事、现代案例和全球故事素材整理成适合儿童阅读与绘本改编的章节材料。
-- Current arc: 第一章样章
-- Latest chapter: ch001 draft
+- Current arc: 第 11 至第 15 章续写
+- Latest chapter: ch011-ch015 quality-optimized split draft
 
 ## Directory Roles
 
@@ -25,7 +25,7 @@
   - 八十一章统一章节模板。
   - 每章故事素材的资料搜集与核查。
   - 儿童语言、画面节奏与哲理表达的平衡。
-- Immediate obligation: 审阅第 1 章样章，决定是否沿用“阿禾 / 空空村 / 老人”这一叙事框架。
+- Immediate obligation: 对第 11 至第 15 章优化稿做音频朗读式审校，重点听节奏、停顿、儿童理解负担和哲学回扣是否自然；叙事框架目前已连续沿用“阿禾 / 空空村 / 老人 / 小石头”。
 
 ## Recommended Read Order
 
@@ -37,4 +37,4 @@
 
 ## Suggested Next Task
 
-- 审阅 `chapters/ch001.md`，确认目标读者年龄段和叙事框架；通过后可继续第 2 章。
+- 朗读审校 `chapters/ch011-1.md` 至 `chapters/ch015-3.md`；若口吻和节奏通过，可继续第 16 章。

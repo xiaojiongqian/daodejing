@@ -18,7 +18,7 @@
   stakes: 是否有固定角色会影响八十一章的连续性和儿童代入感。
   owners: author
   expected_payoff_window: 第一章样章前
-  latest_update: 可选“讲述型”“空空村系列故事型”“师徒问答型”“每章独立寓言型”。
+  latest_update: ch001 与 ch008 至 ch015 已连续采用“空空村系列故事 + 典故延展”框架，事实上形成当前主线；仍待最终确认是否锁定为全系列 canon。
 
 - id: loop-source-base
   label: 原文底本与异文处理
@@ -38,4 +38,4 @@
   stakes: 影响章节是否能形成生动、可信、跨文化的故事解释。
   owners: researcher / author
   expected_payoff_window: 每章开写前
-  latest_update: 已建立 `research/` 入口。
+  latest_update: 第 11 至第 15 章已继续使用 `reference/allusion/` 中外典故；质量审读后，第 11 章改用竹笛故事解释“空处有用”，第 12 章改用奥德修斯与塞壬解释“感官过满”。

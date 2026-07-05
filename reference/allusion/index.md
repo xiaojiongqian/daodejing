@@ -2,7 +2,7 @@
 
 > 按《道德经》卷首/前言 + 八十一章顺序，索引 `reference/allusion/` 目录下 1060 条典故的所在文件与编号。
 > 底本：南怀瑾《老子他说·道篇》与《德篇》典故辑录 + 2026年6月公共领域及可靠信源增补（伊索寓言、希腊神话、圣经故事、安徒生童话、荷马史诗、历史事件、自然奇观、现代励志事迹、现代商业案例等）。
-> 共 1060 条典故，已链接 1151 条引用；0 条暂未定位章节。
+> 共 1060 条典故，已链接 1152 条引用；0 条暂未定位章节。
 > 典故条目体例见 [allusion/README.md](README.md)。
 
 ---
@@ -387,7 +387,7 @@
 
 ## 第7章
 
-共 9 条典故：
+共 10 条典故：
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #19 — 庄子《胠箧》盗亦有道
 - [道家神仙与道统] [daoist-immortals.md](daoist-immortals.md) #46 — 天之至私，用之至公（阴符经）
@@ -401,9 +401,10 @@
 
 ## 第8章
 
-共 17 条典故：
+共 18 条典故：
 
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #103 — 「臣门如市，臣心如水」郑崇
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #85 — 克努特王与潮水——王座不能命令大海
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #148 — 周太王居邠（迁岐避狄）
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #149 — 周文王以百里兴
 - [历史人物与史事] [historical-figures.md](historical-figures.md) #150 — 吴太伯让国避地
@@ -528,7 +529,7 @@
 
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #31 — 五色五音五味令人目盲耳聋口爽
 - [诸子寓言] [philosophers-fables.md](philosophers-fables.md) #32 — 圣人为腹不为目
-- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #64 — 伊索寓言「蚱蜢与蚂蚁」——预先准备与积蓄
+- [中外与西学典故] [foreign-cross.md](foreign-cross.md) #49 — 荷马史诗「奥德修斯的自制」——忍住一时的冲动，等来真正的胜利
 - [其他] [other.md](other.md) #36 — 乔达摩·悉达多「四门游观」——从深宫中窥见真实世界的痛苦
 
 ## 第13章
