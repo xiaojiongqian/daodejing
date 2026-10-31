@@ -15,7 +15,7 @@
   status: advanced
   promise: 用“名字不是全部”的故事解释《道德经》第 1 章的道与名。
   dominant_pressure: 既要保留原文深度，又要让儿童通过具体动作理解。
-  current_turn: ch001 至 ch015 的已写章节继续沿用阿禾、老人、空空村的叙事框架。
+  current_turn: ch001 至 ch015 的已写章节继续沿用阿林、老人、空空村的叙事框架。
   next_obligation: 用户确认叙事框架、年龄段和文本深浅。
 
 - arc_id: chapters-008-010
